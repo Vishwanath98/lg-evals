@@ -1,4 +1,3 @@
-cat << 'EOF' > ~/lg-evals/README.md
 # lg-evals
 
 > Measuring and improving AI agent determinism through telemetry.
@@ -138,4 +137,3 @@ executor→synthesizer  UNTESTED  ← found in V1, fixed in V2
 ## Related
 
 **Hermes Observatory** — A proxy-based telemetry layer for the Hermes autonomous agent. Detected 76.9% tool misrouting. Fixed by rewriting tool descriptions at the proxy layer — zero changes to agent code.
-EOF
