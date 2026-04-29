@@ -73,7 +73,8 @@ The same coverage gap appeared in both backends — confirming it was a graph st
 ---
 
 ## Project Structure
-'''
+```
+
 lg-evals/
 agent/
 graph.py            V1 and V2 LangGraph agents
@@ -86,7 +87,8 @@ run_mcp_agent.py      Run MCP filesystem agent
 run_v2_test.py        Run V2 graph tests
 data/
 lg_telemetry.db     SQLite database with all run history
-'''
+```
+
 ---
 
 ## Quickstart
